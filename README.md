@@ -30,12 +30,12 @@ Zira is a simple AI assistant built in Python that can perform various tasks, in
    ```bash
    git clone https://github.com/your-username/Zira-AI-Assistant.git
 
-**Usage**
+##Usage
 * Zira will greet you and wait for your commands.
 * Speak your command, and Zira will respond accordingly.
 
   
-**Dependencies**
+##Dependencies
 * pyttsx3: Text-to-speech conversion library.
 * pywhatkit: Library for searching and playing YouTube videos.
 * requests: HTTP library for making web requests.
